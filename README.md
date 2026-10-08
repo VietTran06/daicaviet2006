@@ -15,7 +15,7 @@
 ### 🛠️ Tech Stack
 ```bash
 Languages   : C, C++, Python, Java
-Frameworks  :
+Frameworks  : ORtools
 Tools       : Git, VSCode
 OS          : Windows
 
