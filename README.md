@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vet 🚀</h1>
 <p align="center">
-  <em>"Code" 👨‍💻</em>
+  <em>"Vet" 👨‍💻</em>
 </p>
 
 ---
